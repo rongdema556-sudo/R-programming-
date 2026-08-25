@@ -36,3 +36,40 @@ x['Bryan'] # Element with name ' Bryan'
 ```
 ### 4. Programming 
 ---For loop 
+```
+for( variable in sequence){
+  do something
+}
+```
+---While ioop
+```
+while (condition) {
+  do something
+}
+```
+--- If statement 
+```
+if (condition){
+  do something
+} else{
+  do something different
+}
+```
+--- Function 
+```
+function_name <- function(var){
+  do something
+  return(new_variable)
+}
+```
+---Conditions
+```
+a==b # are equal
+a!=b # not equal
+a>b # greater than
+a<b # less than
+a>=b # greater than or equal to
+a<=b # less than or equal to
+is.na(a) # is missing
+is.null(a) #is null
+```
